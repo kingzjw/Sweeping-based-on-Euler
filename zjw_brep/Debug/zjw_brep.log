@@ -1,0 +1,18 @@
+﻿  Moc'ing zjw_brep.h...
+  Uic'ing zjw_brep.ui...
+  Moc'ing zjw_opengl.h...
+  Rcc'ing zjw_brep.qrc...
+RCC : warning : No resources in 'E:\zju_lesson\CAD\CAD_homework\CAD澶т綔涓歘鍛ㄥ鐐淺zjw_brep\zjw_brep\zjw_brep.qrc'.
+  
+  zjw_euler.cpp
+  moc_zjw_brep.cpp
+  moc_zjw_opengl.cpp
+  zjw_file.cpp
+  zjw_halfedge.cpp
+  main.cpp
+  zjw_brep.cpp
+  zjw_opengl.cpp
+  正在生成代码...
+  qrc_zjw_brep.cpp
+  zjw_brep.vcxproj -> E:\zju_lesson\CAD\CAD_homework\CAD大作业_周家炜\zjw_brep\Win32\Debug\zjw_brep.exe
+  zjw_brep.vcxproj -> E:\zju_lesson\CAD\CAD_homework\CAD大作业_周家炜\zjw_brep\Win32\Debug\zjw_brep.pdb (Full PDB)

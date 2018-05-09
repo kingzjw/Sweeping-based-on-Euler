@@ -1,0 +1,24 @@
+# imitate the obj file format by zjw
+
+# (0,0,0) 和下面这个顶点，构成移动的方向和距离
+sweeppoint 0 0 30
+
+# 外部的Solid base face
+start
+out 0.0   0.0   0.0
+out 50.0  20.0  0.0
+out 100.0 0.0   0.0
+out 80.0  50.0  0.0
+out 100.0 100.0 0.0
+out 50.0  80.0  0.0
+out 0.0   100.0 0.0
+out 20.0  50.0  0.0
+end
+
+# 内部的洞 handle face
+start
+inner 40.0 40.0 0.0
+inner 60.0 40.0 0.0
+inner 60.0 60.0 0.0
+inner 40.0 60.0 0.0
+end
